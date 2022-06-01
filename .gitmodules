@@ -1,0 +1,6 @@
+[submodule "42_Born2beRoot"]
+	path = 42_Born2beRoot
+	url = git@github.com:aalcara/42_Born2beroot.git
+[submodule "42_CPP"]
+	path = 42_CPP
+	url = git@github.com:aalcara/42_CPP.git
