@@ -4,3 +4,9 @@
 [submodule "42_CPP"]
 	path = 42_CPP
 	url = git@github.com:aalcara/42_CPP.git
+[submodule "42_cub3D"]
+	path = 42_cub3D
+	url = git@github.com:aalcara/42_cub3D.git
+[submodule "42_ft_containers"]
+	path = 42_ft_containers
+	url = git@github.com:aalcara/42_ft_containers.git
