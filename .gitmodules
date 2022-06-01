@@ -10,3 +10,24 @@
 [submodule "42_ft_containers"]
 	path = 42_ft_containers
 	url = git@github.com:aalcara/42_ft_containers.git
+[submodule "42_get_next_line"]
+	path = 42_get_next_line
+	url = git@github.com:aalcara/42_get_next_line.git
+[submodule "42_libft"]
+	path = 42_libft
+	url = git@github.com:aalcara/42_libft.git
+[submodule "42_minitalk"]
+	path = 42_minitalk
+	url = git@github.com:aalcara/42_minitalk.git
+[submodule "42_philosophers"]
+	path = 42_philosophers
+	url = git@github.com:aalcara/42_philosophers.git
+[submodule "42_printf"]
+	path = 42_printf
+	url = git@github.com:aalcara/42_printf.git
+[submodule "42_push_swap"]
+	path = 42_push_swap
+	url = git@github.com:aalcara/42_push_swap.git
+[submodule "minishell"]
+	path = minishell
+	url = git@github.com:dutenrapha/minishell.git
