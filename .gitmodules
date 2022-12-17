@@ -31,3 +31,6 @@
 [submodule "minishell"]
 	path = minishell
 	url = git@github.com:dutenrapha/minishell.git
+[submodule "42_inception"]
+	path = 42_inception
+	url = git@github.com:aalcara/42_inception.git
