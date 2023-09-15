@@ -34,3 +34,6 @@
 [submodule "42_inception"]
 	path = 42_inception
 	url = git@github.com:aalcara/42_inception.git
+[submodule "42_webserv"]
+	path = 42_webserv
+	url = git@github.com:snvas/42course_webserver.git
